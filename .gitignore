@@ -2,3 +2,4 @@ _site/CNAME
 _site
 .sass-cache
 .DS_Store
+_config_dev.yml

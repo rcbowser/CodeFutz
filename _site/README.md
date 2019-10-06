@@ -1,2 +1,2 @@
-# rcbowser.github.io
-CodeFutz Github page
+# CodeFutz
+CodeFutz blog posts and products
