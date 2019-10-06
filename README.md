@@ -1,2 +1,2 @@
 # CodeFutz
-CodeFutz blog post and products
+CodeFutz blog posts and products
